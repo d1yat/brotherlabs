@@ -42,9 +42,9 @@
                 margin-top: 0;
             }
             
-            @media only screen and (max-width: 800px) {
+            @media only screen and (max-width: 768px) {
                 body {
-                    background: url('img/1366-768/bl-header-img.jpg') no-repeat center center fixed;
+                    background: url('img/1366-768/bl-header-img-small.jpg') no-repeat center center fixed;
                     background-size: cover;
                 }
             }
